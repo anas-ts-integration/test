@@ -1,2 +1,2 @@
 # test
-testing the Git skill
+Testing the Git skill
