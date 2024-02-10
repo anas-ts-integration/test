@@ -1,2 +1,2 @@
 # test
-Testing the Git skill
+Replacing this file.
